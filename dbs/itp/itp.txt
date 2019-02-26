@@ -1,0 +1,2 @@
+int ;matricula
+char ;nomes
